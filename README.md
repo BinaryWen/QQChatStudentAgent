@@ -1,4 +1,4 @@
-# QQChatSQLAPI
+# QQChatAgentSQL&API
 A project for my Volcengine Agent Creative Contest project to input .json from Napcat to MySQL and pull it to remote our main agent with simple APIs.
 ## Dialog
 Before<br>
@@ -25,7 +25,9 @@ Encapsulate more shortcut interfaces to improve business efficiency<br>
 项目智能体本体部署在
 <span style="text-decoration: underline; color: blue;">[扣子编程外链，请注意](https://www.coze.cn/enterprise/volcano_2102616669/store/agent/7647955849062744118?)</span>
 **由于主办方企业项目权限设置目前无法访问** <br>
-
+项目后端部署在华为云Flexus L实例弹性云服务器上，项目将持续运营到9月省赛,<br>
+Pull出来以防万一<br>
+为安全考虑，服务器公网链接不展示<br>
 **鸣谢**<br>
 底层架构https://github.com/NapNeko/NapCat-Docker<br>
 定时工具https://github.com/shuakami/qq-chat-exporter<br>
