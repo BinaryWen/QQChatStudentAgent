@@ -23,10 +23,10 @@ Encapsulate more shortcut interfaces to improve business efficiency<br>
 <span style="color:red">~~好吧不装我的蹩脚四级英语了~~</span><br>
 <span style="color:red">~~实际上就是一个大一外行用AI鼓捣出来的参赛作品的技术后端~~</span><br>
 项目智能体本体在
-<span style="text-decoration: underline; color: blue;">[蓝色下划线文字](https://www.coze.cn/enterprise/volcano_2102616669/store/agent/7647955849062744118?)</span>
+<span style="text-decoration: underline; color: blue;">[扣子编程外链，请注意](https://www.coze.cn/enterprise/volcano_2102616669/store/agent/7647955849062744118?)</span>
 由于权限设置目前无法访问<br>
 
-**鸣谢**
+**鸣谢**<br>
 底层架构https://github.com/NapNeko/NapCat-Docker<br>
 定时工具https://github.com/shuakami/qq-chat-exporter<br>
 
