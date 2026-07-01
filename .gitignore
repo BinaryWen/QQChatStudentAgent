@@ -1,0 +1,28 @@
+# 环境变量文件
+.env
+.env.*
+
+!**/.env.example
+# 日志
+logs/
+*.log
+log/
+*.log
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# 数据库备份、密钥
+*.sql
+*.bak
+*.pem
+*.key
+
+# IDE 配置
+.idea/
+.vscode/
+.DS_Store
