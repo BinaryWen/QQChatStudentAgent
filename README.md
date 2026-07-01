@@ -19,12 +19,12 @@ Add IP Blacklist to block unfriendly IP.<br>
 Add more operation, maintenance, management and debugging channels for the project.<br>
 Encapsulate more shortcut interfaces to improve business efficiency<br>
 
-## Fact
+## Facts
 <span style="color:red">~~好吧不装我的蹩脚四级英语了~~</span><br>
 <span style="color:red">~~实际上就是一个大一外行用AI鼓捣出来的参赛作品的技术后端~~</span><br>
-项目智能体本体在
+项目智能体本体部署在
 <span style="text-decoration: underline; color: blue;">[扣子编程外链，请注意](https://www.coze.cn/enterprise/volcano_2102616669/store/agent/7647955849062744118?)</span>
-由于权限设置目前无法访问<br>
+**由于主办方企业项目权限设置目前无法访问** <br>
 
 **鸣谢**<br>
 底层架构https://github.com/NapNeko/NapCat-Docker<br>
